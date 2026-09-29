@@ -18,6 +18,5 @@ dependencies:
   - flake8
   - ipykernel
   - ipywidgets
-  - pip:
-    - ydata_profiling
+  - ydata_profiling
     
