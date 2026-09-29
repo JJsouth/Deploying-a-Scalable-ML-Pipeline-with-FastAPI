@@ -17,6 +17,7 @@ dependencies:
   - httpx
   - flake8
   - ipykernel
+  - ipywidgets
   - pip:
     - ydata_profiling
     
