@@ -178,3 +178,4 @@ fastapi/
 
 # End of https://www.toptal.com/developers/gitignore/api/python
 Miniconda3-latest-MacOSX-arm64.sh
+.vscode/
